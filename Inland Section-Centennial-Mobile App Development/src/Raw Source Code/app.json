@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "Athenaeum",
+    "description": "Centennial High School CAFBLA Mobile App Dev",
+    "sdkVersion": "23.0.0",
+    "android": {
+      "package": "com.centennial.Athenaeum"
+    },
+    "ios": {
+      "bundleIdentifier": "com.centennial.Athenaeum"
+    },
+    "icon": "./icon.png"
+  }
+}

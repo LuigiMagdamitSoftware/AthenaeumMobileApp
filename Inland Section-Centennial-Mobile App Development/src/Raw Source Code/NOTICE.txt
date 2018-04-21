@@ -1,0 +1,1 @@
+If ran in a React Native environment, it should be structured this way. 'Test' is just the name of the directory.
